@@ -8,6 +8,8 @@ Interneta veikals, kas pārdod dažādas grāmatas. Lietotājs varēs izveidot s
 * HTML
 * CSS
 * PHP
+* bootstrap
+* javascript
 * MySQL
 * XAMPP 
 
