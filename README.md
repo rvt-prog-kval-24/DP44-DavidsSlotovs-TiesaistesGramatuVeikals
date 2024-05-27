@@ -1,14 +1,13 @@
 # DP44-DavidsSlotovs-TiesaistesGramatuVeikals
 
-***
 
 ## Projekta apraksts
-***
+
 
 Interneta veikals, kas pārdod dažādas grāmatas. Lietotājs varēs izveidot savu kontu un pēc tam pievienot grozam nepieciešamās grāmatas un pēc tam veikt pasūtījumu. Vietnē ir arī ērta šķirošana pēc žanra, cenas vai nosaukuma, lai lietotājam būtu ērti atrast īsto preci.
 
 ## Izmantotās tehnoloģijas
-***
+
 Projektā tiek izmantots:
 
 * Visual Studio Code
@@ -21,7 +20,7 @@ Projektā tiek izmantots:
 * XAMPP 
 
 ## Izmantotie avoti
-***
+
 • [PHP Tutorials](https://www.w3schools.com/php/)<br>
 • [Forms Tutorial](https://www.youtube.com/watch?v=2MpZwFoBPjQ&t=510s)<br>
 • [SQL Tutorials](https://www.w3schools.com/sql/)
