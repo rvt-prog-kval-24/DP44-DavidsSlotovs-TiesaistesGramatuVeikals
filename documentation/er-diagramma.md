@@ -1,4 +1,4 @@
-![Picture](https://raw.githubusercontent.com/Daveidos/d51-DavidsSlotovs-TiesaistesGrmatuVeikals/main/Pictures/er-diagarm.png)
+![Picture](https://raw.githubusercontent.com/Daveidos/d51-DavidsSlotovs-TiesaistesGrmatuVeikals/main/Pictures/er-diagram.PNG)
 
 
 
