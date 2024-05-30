@@ -10,7 +10,6 @@ Interneta veikals, kas pārdod dažādas grāmatas. Lietotājs varēs izveidot s
 
 Projektā tiek izmantots:
 
-* Visual Studio Code
 * HTML
 * CSS
 * PHP
